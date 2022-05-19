@@ -1,0 +1,14 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  font-family: Raleway, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+  flex-wrap: wrap;
+  background-color: aqua;
+  text-shadow: 1px 1px 1px black;
+}
